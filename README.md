@@ -15,17 +15,16 @@
 <p>Some ideas to face the tests:</p>
 
 <ul>
-    <li style="width: 100%; padding: 0; margin: 0 auto;"> <h2>Stack Barrels</h2>
-    <span style="margin: 10px auto; text-align: center;">
-        <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/stackbarrelslight.pdf" target="_blank">
-            <img border="0" alt="Download Stack Barrels Light" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/stackbarrelslight.png" width="260" height="182">
-        </a>
-    </span>
-  
-    <span style="margin: 10px auto; text-align: center;">
-        <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/stackbarrelsheavy.pdf" target="_blank">
-            <img border="0" alt="Download Stack Barrels Heavy" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/stackbarrelsheavy.png" width="260" height="182">
-        </a> 
-    </span>
+    <li style="width: 100%; padding: 0; margin: 0 auto;"><h2>Stack Barrels</h2>
+        <span style="margin: 10px auto; text-align: center;">
+            <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/stackbarrelslight.pdf" target="_blank">
+                <img border="0" alt="Download Stack Barrels Light" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/stackbarrelslight.png" width="260" height="182">
+            </a>
+        </span>
+        <span style="margin: 10px auto; text-align: center;">
+            <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/stackbarrelsheavy.pdf" target="_blank">
+                <img border="0" alt="Download Stack Barrels Heavy" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/stackbarrelsheavy.png" width="260" height="182">
+            </a> 
+        </span>
     </li>
 </ul>
