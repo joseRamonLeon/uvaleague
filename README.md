@@ -7,7 +7,7 @@
 <p>The competition consists of four tests that must be completed in 2 and a half minutes, which will change or evolve in each event.</p>
 
 <div style="width: 100%; padding: 0; margin: 0 auto;">
-    <img border="0" alt="Uva League" src="https://github.com/joseRamonLeon/uvaleague/images/tableroUvaLeague-2880x1527.jpg">
+    <img border="0" alt="Uva League" src="https://github.com/joseRamonLeon/uvaleague/blob/master/images/tableroUvaLeague-2880x1527.jpg">
 </div>
 
 <p>The measures of the board are 6 rows of 8 folios in landscape.
@@ -17,12 +17,12 @@
 <ul>
 <li><h2>Stack Barrels</h2>: 
     <span style="margin: 10px auto; text-align: center;">
-        <a href="https://github.com/joseRamonLeon/uvaleague/pdf/apilabarricasv3.pdf" target="_blank">
+        <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/stackbarrelslight.pdf" target="_blank">
         <img border="0" alt="Download Stack Barrels Light" src="https://github.com/joseRamonLeon/uvaleague/stackbarrelslight.png" width="260" height="182">
     </a>
     </span>
     <span style="margin: 10px auto; text-align: center;">
-    <a href="https://github.com/joseRamonLeon/uvaleague/pdf/apilabarricasv3_2x.pdf" target="_blank">
+    <a href="https://github.com/joseRamonLeon/uvaleague/pdf/stackbarrelsheavy.pdf" target="_blank">
         <img border="0" alt="Download Stack Barrels Heavy" src="https://github.com/joseRamonLeon/uvaleague/stackbarrelsheavy.png" width="260" height="182">
     </a> 
     </span>
