@@ -16,15 +16,17 @@
 
 <ul>
 <li><h2>Stack Barrels</h2>: 
-    <span style="margin: 10px auto; text-align: center;">
+    <p><span style="margin: 10px auto; text-align: center;">
         <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/stackbarrelslight.pdf" target="_blank">
-        <img border="0" alt="Download Stack Barrels Light" src="https://github.com/joseRamonLeon/uvaleague/stackbarrelslight.png" width="260" height="182">
+        <img border="0" alt="Download Stack Barrels Light" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/stackbarrelslight.png" width="260" height="182">
     </a>
     </span>
+    </p>    
     <span style="margin: 10px auto; text-align: center;">
-    <a href="https://github.com/joseRamonLeon/uvaleague/pdf/stackbarrelsheavy.pdf" target="_blank">
-        <img border="0" alt="Download Stack Barrels Heavy" src="https://github.com/joseRamonLeon/uvaleague/stackbarrelsheavy.png" width="260" height="182">
+    <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/stackbarrelsheavy.pdf" target="_blank">
+        <img border="0" alt="Download Stack Barrels Heavy" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/stackbarrelsheavy.png" width="260" height="182">
     </a> 
     </span>
+    
   </li>
 </ul>
