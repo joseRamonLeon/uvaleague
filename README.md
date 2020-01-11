@@ -18,12 +18,12 @@
 <li><h2>Stack Barrels</h2>: 
     <span style="margin: 10px auto; text-align: center;">
         <a href="https://github.com/joseRamonLeon/uvaleague/pdf/apilabarricasv3.pdf" target="_blank">
-        <img border="0" alt="Download Stack Barrels light" src="http://www.ytopic.es/ev3/videoev3devimagen2.jpg" width="260" height="182">
+        <img border="0" alt="Download Stack Barrels Light" src="https://github.com/joseRamonLeon/uvaleague/stackbarrelslight.png" width="260" height="182">
     </a>
     </span>
     <span style="margin: 10px auto; text-align: center;">
     <a href="https://github.com/joseRamonLeon/uvaleague/pdf/apilabarricasv3_2x.pdf" target="_blank">
-        <img border="0" alt="Download Stack Barrels heavy" src="http://www.ytopic.es/ev3/videoev3devimagen3.jpg" width="260" height="182">
+        <img border="0" alt="Download Stack Barrels Heavy" src="https://github.com/joseRamonLeon/uvaleague/stackbarrelsheavy.png" width="260" height="182">
     </a> 
     </span>
   </li>
