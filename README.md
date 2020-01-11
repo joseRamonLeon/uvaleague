@@ -1,5 +1,4 @@
 # UvaLeague
-<h1>Uva League</h1>
 <p>The Uva League is a robotics / electronics competition applied in Lego-type and / or compatible building blocks.</p>
 
 <p>The competition is based on machinery related to the wine sector, as well as machinery used for winemaking.</p>
