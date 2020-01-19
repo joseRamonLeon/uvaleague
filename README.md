@@ -13,6 +13,7 @@
     Width: 2,364 m Height: 1,145m</p>
 <p>Some ideas to face the tests:</p>
 
+<h2>Stack Barrels</h2>
 <ul>
     <li style="width: 100%; padding: 0; margin: 0 auto;"><h2>Stack Barrels</h2>
         <span style="margin: 10px auto; text-align: center;">
@@ -26,7 +27,7 @@
             </a> 
         </span>
     </li>
-    <li style="width: 100%; padding: 0; margin: 0 auto;"><h2>Barrels</h2>
+    <li style="width: 100%; padding: 0; margin: 0 auto;"><h2>Barrel</h2>
         <span style="margin: 10px auto; text-align: center;">
             <a href="https://github.com/joseRamonLeon/uvaleague/raw/master/pdf/barrellight.pdf" target="_blank">
                 <img border="0" alt="Download Stack Barrels Light" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/barrellight.png" width="260" height="182">
