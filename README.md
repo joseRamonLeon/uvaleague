@@ -15,15 +15,16 @@
 
 
 <h2>1 Take out grapes</h2>
+<ul>
     <li style="width: 100%; padding: 0; margin: 0 auto;"><h2>Take out grapes</h2>
         <span style="margin: 10px auto; text-align: center;">
             <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/takeoutgrapeslight.pdf" target="_blank">
-                <img border="0" alt="Download Take out grapes Light" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/takeoutgrapeslight.png" width="260" height="182">
+                <img border="0" alt="Download Take out grapes Light" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/takeoutgrapeslight.jpg" width="260" height="182">
             </a>
         </span>
         <span style="margin: 10px auto; text-align: center;">
             <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/takeoutgrapesHeavy.pdf" target="_blank">
-                <img border="0" alt="Download Take out grapes Heavy" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/takeoutgrapesHeavy.png" width="260" height="182">
+                <img border="0" alt="Download Take out grapes Heavy" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/takeoutgrapesheavy.jpg" width="260" height="182">
             </a> 
         </span>
     </li>
