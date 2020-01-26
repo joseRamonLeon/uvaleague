@@ -62,7 +62,7 @@
             </a>
         </span>
         <span style="margin: 10px auto; text-align: center;">
-            <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/barrelsheavy.pdf" target="_blank">
+            <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/barrelheavy.pdf" target="_blank">
                 <img border="0" alt="Download Stack Barrels Heavy" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/barrelheavy.png" width="260" height="182">
             </a> 
         </span>
