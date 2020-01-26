@@ -13,6 +13,9 @@
     Width: 2,364 m Height: 1,145m</p>
 <p>Some ideas to face the tests:</p>
 
+
+<h2>1 Take out grapes</h2>
+
 <h2>3 Stack Barrels</h2>
 <ul>
     <li style="width: 100%; padding: 0; margin: 0 auto;"><h2>Stack Barrels</h2>
