@@ -30,7 +30,7 @@
     </li>
     <li style="width: 100%; padding: 0; margin: 0 auto;"><h2>Grapes</h2>
         <span style="margin: 10px auto; text-align: center;">
-            <a href="https://github.com/joseRamonLeon/uvaleague/raw/master/pdf/grapeslight.pdf" target="_blank">
+            <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/grapeslight.pdf" target="_blank">
                 <img border="0" alt="Download Stack Barrels Light" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/grapeslight.jpg" width="260" height="182">
             </a>
         </span>
