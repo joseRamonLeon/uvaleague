@@ -39,7 +39,8 @@
                 <img border="0" alt="Download Stack Barrels Heavy" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/barrelheavy.png" width="260" height="182">
             </a> 
         </span>
-    </li>  
+    </li>
+</ul>    
 <h2>3 Stack Barrels</h2>
 <ul>
     <li style="width: 100%; padding: 0; margin: 0 auto;"><h2>Stack Barrels</h2>
