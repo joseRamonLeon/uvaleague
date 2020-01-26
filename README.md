@@ -15,7 +15,30 @@
 
 
 <h2>1 Take out grapes</h2>
-
+    <li style="width: 100%; padding: 0; margin: 0 auto;"><h2>Take out grapes</h2>
+        <span style="margin: 10px auto; text-align: center;">
+            <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/takeoutgrapeslight.pdf" target="_blank">
+                <img border="0" alt="Download Take out grapes Light" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/takeoutgrapeslight.png" width="260" height="182">
+            </a>
+        </span>
+        <span style="margin: 10px auto; text-align: center;">
+            <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/takeoutgrapesHeavy.pdf" target="_blank">
+                <img border="0" alt="Download Take out grapes Heavy" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/takeoutgrapesHeavy.png" width="260" height="182">
+            </a> 
+        </span>
+    </li>
+    <li style="width: 100%; padding: 0; margin: 0 auto;"><h2>Grapes</h2>
+        <span style="margin: 10px auto; text-align: center;">
+            <a href="https://github.com/joseRamonLeon/uvaleague/raw/master/pdf/barrellight.pdf" target="_blank">
+                <img border="0" alt="Download Stack Barrels Light" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/barrellight.png" width="260" height="182">
+            </a>
+        </span>
+        <span style="margin: 10px auto; text-align: center;">
+            <a href="https://github.com/joseRamonLeon/uvaleague/blob/master/pdf/barrelsheavy.pdf" target="_blank">
+                <img border="0" alt="Download Stack Barrels Heavy" src="https://raw.githubusercontent.com/joseRamonLeon/uvaleague/master/images/barrelheavy.png" width="260" height="182">
+            </a> 
+        </span>
+    </li>  
 <h2>3 Stack Barrels</h2>
 <ul>
     <li style="width: 100%; padding: 0; margin: 0 auto;"><h2>Stack Barrels</h2>
